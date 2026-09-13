@@ -39,13 +39,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=4F46E5&logo=github"/>
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge&color=6D28D9&logo=github"/>
+  <img src="https://komarev.com/ghpvc/?username=latikadhami05&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/latikadhami05?label=Followers&style=for-the-badge&color=4F46E5&logo=github"/>
+  <img src="https://img.shields.io/github/stars/latikadhami05?label=Stars&style=for-the-badge&color=6D28D9&logo=github"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-YOUR_LOCATION-312E81?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Dehradun%2C%20Uttarakhand-312E81?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
 ---
@@ -105,27 +105,7 @@ I learn by building, iterating, analyzing problems, and gradually turning ideas 
 
 ---
 
-# 🧠 AI / ML Expertise
 
-| Domain | Level | Details |
-|---|---|---|
-| Python for Data/ML | Working Knowledge | Python-based data analysis and ML workflows |
-| NumPy | Working Knowledge | Numerical computing and array-based operations |
-| Pandas | Working Knowledge | Data manipulation, cleaning, aggregation and analysis |
-| Exploratory Data Analysis | Working Knowledge | Dataset exploration, patterns and relationship analysis |
-| Data Cleaning | Working Knowledge | Preparing structured datasets for analysis |
-| Data Preprocessing | Working Knowledge | Preparing features and datasets for ML workflows |
-| Data Visualization | Working Knowledge | Matplotlib and Seaborn-based analysis |
-| Statistical Analysis | Working Knowledge | Statistical comparison and hypothesis testing |
-| Scikit-learn | Working Knowledge | Classical supervised ML workflows |
-| Supervised Machine Learning | Learning / Applied | Building and evaluating supervised ML approaches |
-| Regression | Learning / Applied | Regression-based predictive modeling |
-| Classification | Learning / Applied | Classification-oriented ML workflows |
-| Predictive Modeling | Learning / Applied | Applying ML to prediction-oriented problems |
-| Feature Engineering | Learning | Creating and preparing useful model features |
-| Model Evaluation | Learning | Evaluating model behavior using appropriate metrics |
-| XGBoost | Learning / Applied | Exploring gradient-boosted ML workflows |
-| ML-oriented Software Analysis | Building | Applying ML concepts toward software/code analysis |
 
 ## 🔭 Currently Exploring
 
@@ -435,28 +415,6 @@ Currently using LeetCode as part of my placement-focused DSA preparation.
 </p>
 
 ---
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</p>
 
 ---
 
