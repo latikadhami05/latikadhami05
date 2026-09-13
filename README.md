@@ -315,7 +315,7 @@ The roadmap moves from an initial working code-analysis / ML workflow toward a m
 ## VOIS / Vodafone Idea Foundation / Edunet Foundation
 
 **Data Analytics Intern**  
-**August 2026 – Present**
+**August 2026 – September 2026**
 
 Working on data analytics and AICTE project activities involving practical analysis workflows and technical documentation.
 
