@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Aspiring+AI%2FML+Engineer;DSA+%7C+Core+CS+%7C+Machine+Learning;Building+AI+for+Software+Engineering;Learning.+Building.+Engineering." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;DSA+%7C+Core+CS+%7C+Machine+Learning;Building+AI+for+Software+Engineering;Learning.+Building.+Engineering." alt="Typing SVG"/>
   </a>
 </p>
 
@@ -25,16 +25,15 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/latika-dhami/">
     <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+
+  <a href="mailto:latikadhami06@gmail.com">
     <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+
+  <a href="https://github.com/latikadhami05">
     <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
