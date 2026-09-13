@@ -356,11 +356,8 @@ Worked on analytics-oriented research and data organization tasks involving NGO 
 
 | Recognition | Details |
 |---|---|
-| 🥇 **UTKARSH 1.0 — Winner** | 1st among 200+ affiliated colleges 
-  Built and presented **Him Rakshak**, a state-level disaster-management application, and won **1st place** with a **₹50,000 team prize**.
+| 🥇 **UTKARSH 1.0 — Winner** | 1st among 200+ affiliated colleges. Built and presented **Him Rakshak**, a state-level disaster-management application, and won **1st place** with a **₹50,000 team prize**. |
 | 🎨 **President — Arts & Literature Club** | Student leadership role |
-
-
 ---
 
 # 📚 Certifications / Learning
