@@ -340,23 +340,7 @@ Worked on analytics-oriented research and data organization tasks involving NGO 
 | 🎨 **President — Arts & Literature Club** | Student leadership role |
 ---
 
-# 📚 Certifications / Learning
 
-I currently prefer to highlight **verified learning and active technical development** rather than filling the profile with unverified certification badges.
-
-### Current Learning Areas
-
-- Data Structures & Algorithms
-- Core Computer Science
-- Machine Learning
-- SQL
-- Software Engineering
-- AI for Software Engineering
-- Code Intelligence
-- Intelligent Developer Tools
-- Advanced Machine Learning
-
----
 
 
 
