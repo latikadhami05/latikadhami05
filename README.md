@@ -106,26 +106,6 @@ I learn by building, iterating, analyzing problems, and gradually turning ideas 
 ---
 
 
-
-## 🔭 Currently Exploring
-
-These areas represent my **learning and future technical direction**, not claimed professional expertise.
-
-- Advanced Machine Learning
-- AI for Software Engineering
-- Intelligent Developer Tools
-- Code Intelligence
-- Machine Learning for Software Quality
-- Explainable ML
-- Anomaly / Risk Detection
-- ML-powered Automation
-- NLP Fundamentals
-- Generative AI Concepts
-- LLM-assisted Software Engineering
-- AI Agents and Developer Workflows
-
----
-
 # 🚀 Featured Projects
 
 ## 01 — Seasonal Agriculture Performance Analysis
@@ -378,27 +358,7 @@ I currently prefer to highlight **verified learning and active technical develop
 
 ---
 
-# 💻 Coding Profiles
 
-## LeetCode
-
-**Username:** `LatikaDhami`
-
-Currently using LeetCode as part of my placement-focused DSA preparation.
-
-- Active DSA practice
-- 🏅 50-day badge
-- Java as primary DSA language
-- Algorithmic problem solving
-- Placement-focused preparation
-
-<a href="https://leetcode.com/u/LatikaDhami/">
-  <img src="https://img.shields.io/badge/LeetCode-LatikaDhami-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-> GeeksforGeeks, HackerRank and CodeChef are intentionally not listed until verified profile URLs/usernames are available.
-
----
 
 # 📊 GitHub Analytics
 
@@ -415,30 +375,4 @@ Currently using LeetCode as part of my placement-focused DSA preparation.
 
 ---
 
-# 🎯 Current Focus
 
-```yaml
-learning:
-  - Data Structures & Algorithms
-  - Machine Learning
-  - SQL
-  - Software Engineering
-  - Core Computer Science
-
-building:
-  - AI Code Quality & Risk Intelligence
-  - AI/ML projects
-  - Software engineering projects
-
-exploring:
-  - AI for Software Engineering
-  - Code Intelligence
-  - Intelligent Developer Tools
-  - Advanced Machine Learning
-  - Product Engineering
-
-open_to:
-  - Software Engineering opportunities
-  - AI/ML opportunities
-  - Internships
-  - Engineering collaborations
